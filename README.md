@@ -1,7 +1,5 @@
 # Project_lab-secu
 
-En cours ...
-
 Projet étudiant de 1ère année qui a pour but d'acquérir des compétences dans le web.
 
 Composition du projet :
