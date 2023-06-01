@@ -1,6 +1,6 @@
 # Project_lab-secu
 
-Projet étudiant de 1ère année qui a pour but d'acquérir des compétences dans le web.
+Projet étudiant de 1ère année qui a pour but d'acquérir des compétences dans le pentest sur des sites web.
 
 Composition du projet :
 
